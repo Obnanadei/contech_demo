@@ -2,7 +2,7 @@
 
 * [Contech Community Page](README.md)
 * [FOOTER](FOOTER.md)
-* [CHAOSS Website](<README (1).md>)
+* [Contech Website](<README (1).md>)
 * [About](about/README.md)
   * [Code of Conduct](About/code-of-conduct.md)
 * [About](about-1/README.md)
